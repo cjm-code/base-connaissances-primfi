@@ -1,2 +1,2 @@
 # base-connaissances-primfi
-Stockage des fichiers pour web app Vercel : Base de connaissances PRIMFI
+Ressources et veille stratégique
